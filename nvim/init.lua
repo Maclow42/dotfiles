@@ -1,0 +1,10 @@
+require('options')
+require('keymaps')
+require('plugins')
+require('colorscheme')
+
+require('config.lsp.init')
+require('config.cmp')
+require('config.lualine')
+require('config.hlchunk')
+require('config.cinnamon')
